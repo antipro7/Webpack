@@ -1,0 +1,24 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "> 记录学习 webpack 的过程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antipro7/Webpack.git"
+  },
+  "author": "jianhui.fang77@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antipro7/Webpack/issues"
+  },
+  "homepage": "https://github.com/antipro7/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
